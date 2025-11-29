@@ -22,24 +22,15 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 Contributions
 
 <p align="center">
-
-  <!-- GitHub Stats Card (Red + White Theme) -->
+  <!-- GitHub Contributions Graph -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TalesOfJDL&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-
-  <!-- GitHub Contributions Graph (Red + White Theme) -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TalesOfJDL&area=true&hide_border=true&bg_color=0d1117&color=ff0000&point=ffffff&line=ff0000" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TalesOfJDL&area=true&hide_border=true&bg_color=0d1117&color=ff0000&point=ffffff&line=ff0000&custom_title=GitHub%20Contributions%20Graph" 
     alt="GitHub Contributions Graph" 
     width="100%" 
   />
-
 </p>
 
 ---
